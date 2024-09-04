@@ -1,3 +1,1 @@
-This is a shared file.
-Line 1: Original Text.
-Line 2: Original Text.
+This should resolve the conflict.
